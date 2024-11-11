@@ -25,15 +25,15 @@
 - **Veri Analitiği**: SQL, Excel, Power BI
 
 ## 📈 GitHub İstatistiklerim
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=ertugrul&show_icons=true&theme=radical)
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=ertugrulsarsar&show_icons=true&theme=radical)
 
 ## 🌐 En Popüler Dillerim
-![En Popüler Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrul&layout=compact&theme=radical)
+![En Popüler Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrulsarsar&layout=compact&theme=radical)
 
 ## 🔥 GitHub Aktivite Serim
-[![GitHub Streak](https://streak-stats.demolab.com?user=ertugrul&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ertugrulsarsar&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Başarımlarım
-![GitHub Başarımlarım](https://github-profile-trophy.vercel.app/?username=ertugrul&theme=radical&no-frame=true&margin-w=10)
+![GitHub Başarımlarım](https://github-profile-trophy.vercel.app/?username=ertugrulsarsar&theme=radical&no-frame=true&margin-w=10)
 
 
