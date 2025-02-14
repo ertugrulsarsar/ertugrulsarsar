@@ -1,75 +1,59 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Ertuğrul%20Sarsar&fontSize=60&animation=fadeIn&fontColor=fff)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6FA4FC&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+Ertu%C4%9Frul+%F0%9F%91%8B;Full+Stack+Developer;Web+Geli%C5%9Ftirici" alt="Typing SVG" />
+</div>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Merhaba!+👋;Ben+Ertuğrul+Sarsar;Full+Stack+Developer" />
-</h3>
-
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ertugrulsarsar&label=Ziyaretçi%20Sayısı&color=6FA4FC&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <div align="center">
- 
- 🔭 Şu anda **freelance** olarak çalışıyorum
- 
- 🌱 **Python**, **JavaScript**, **Node.js** ve **Next.js** öğreniyorum
-
- 💡 Yönetim Bilişim Sistemleri mezunuyum ve Bilgisayar Programcılığı okuyorum
-
+  <p>🎓 Yönetim Bilişim Sistemleri mezunu ve Bilgisayar Programcılığı öğrencisi</p>
+  <p>💻 Full Stack Developer olma yolunda ilerliyorum</p>
+  <p>🌱 Python, JavaScript, Node.js ve Next.js üzerinde çalışıyorum</p>
 </div>
-
-<div align="center"> 
-  <a href="mailto:ertugrulsarsar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ertugrulsarsar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ertugrulsarsar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Teknoloji Yığınım ⚡</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=python,nodejs,express" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-</div>
-
-<br/>
-<hr/>
 
 <div align="center">
-  <h2>🐍 Katkı Grafiğim 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com//ertugrulsarsar/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <h2>🛠️ Teknolojiler & Araçlar</h2>
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ İstatistikler ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=ertugrulsarsar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ertugrulsarsar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ertugrulsarsar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="express" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
 </div>
-
-<br/><br/>
-
-<hr/>
 
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/ertugrulsarsar' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ertugrulsarsar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6FA4FC&icon_color=6FA4FC" width="45%" alt="Github stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ertugrulsarsar&theme=tokyonight&hide_border=true&background=0d1117&ring=6FA4FC&fire=6FA4FC&currStreakLabel=6FA4FC" width="45%" alt="Github streak"/>
 </div>
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=footer) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrulsarsar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6FA4FC&layout=compact" width="45%" alt="Most used languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📫 İletişim</h2>
+  <a href="https://linkedin.com/in/ertugrulsarsar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ertugrulsarsar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/ertugrulsarsar">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+<br/>
