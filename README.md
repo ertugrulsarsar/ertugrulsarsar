@@ -44,7 +44,7 @@
 <div align="center">
   <h2>🐍 Katkı Grafiğim 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ertugrulsarsar/ertugrulsarsar/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com//ertugrulsarsar/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
