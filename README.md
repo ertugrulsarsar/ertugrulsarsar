@@ -29,7 +29,7 @@ const ertugrulSarsar = {
 ### Backend  
 
 <div style="display: inline-block;">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express" />
 </div>
 
 ### Araçlar & IDE'ler
