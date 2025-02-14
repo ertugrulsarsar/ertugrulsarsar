@@ -1,51 +1,66 @@
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7A2&random=false&width=435&lines=Merhaba%2C+Ben+Ertu%C4%9Frul+%F0%9F%91%8B;Full+Stack+Developer;Web+Geli%C5%9Ftirici)](https://git.io/typing-svg)
 
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ertugrulsarsar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ertugrulsarsar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrulsarsar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
-
-<!--![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)-->
-
-
-# Merhaba, Ben Ertuğrul 👋
-
-💻 Yönetim Bilişim Sistemleri mezunu, e-ticaret ve yazılım tutkunu.  
-🚀 Web geliştirme, veri analitiği ve dijital dönüşümle ilgileniyorum.
-
-## 🚀 Kullandığım Teknolojiler
-### Frontend
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding"/>
 </div>
 
-### Backend
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+## 👨‍💻 Hakkımda
+
+```javascript
+const ertugrulSarsar = {
+    role: "Full Stack Developer",
+    education: "Yönetim Bilişim Sistemleri", "Bilgisayar Programcılığı"
+    interests: ["Web Geliştirme", "E-ticaret", "Veri Analitiği", "Dijital Dönüşüm"],
+    currentlyLearning: ["JavaScript", "Node.js", "Next.js", "Python"],
+    askMeAbout: ["Web Dev", "Tech", "E-commerce"]
+};
+```
+
+## 🛠️ Teknoloji Yığınım
+
+<div align="center">
+  
+### Frontend  
+  
+<div style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
 </div>
 
-### Araçlar
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+### Backend  
+
+<div style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express />
 </div>
 
-## 📈 GitHub İstatistiklerim
-(![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=ertugrulsarsar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+### Araçlar & IDE'ler
 
-## 🌐 En Popüler Dillerim
-![En Popüler Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrulsarsar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: inline-block;">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</div>
 
-## 🔥 GitHub Aktivite Serim
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ertugrulsarsar&theme=dark&hide_border=false)
+</div>
 
-<!--## 🏆 GitHub Başarımlarım
-![GitHub Başarımlarım](https://github-profile-trophy.vercel.app/?username=ertugrulsarsar&theme=radical&no-frame=true&margin-w=10)-->
+## 📊 GitHub İstatistiklerim
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ertugrulsarsar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ertugrulsarsar&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrulsarsar&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+## 🤝 Bağlantı Kuralım
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ertugrulsarsar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ertugrulsarsar)
+  
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ertugrulsarsar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div> 
