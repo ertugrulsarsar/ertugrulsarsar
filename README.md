@@ -30,10 +30,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ertugrulsarsar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6FA4FC&icon_color=6FA4FC" width="45%" alt="Github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ertugrulsarsar&theme=tokyonight&hide_border=true&background=0d1117&ring=6FA4FC&fire=6FA4FC&currStreakLabel=6FA4FC" width="45%" alt="Github streak"/>
-</div>
 
 <br/>
 
